@@ -1,0 +1,8 @@
+
+HIV	104	human immunodeficiency virus	234
+IAV	113	Influenza A viruses	114
+IAV	113	influenza A viruses	239
+MRSA	130	methicillin resistant Staphylococcus aureus	242
+RSV	152	respiratory syncytial virus	261
+SEB	159	Staphylococcal enterotoxin B	170
+SEB	159	staphylococcal enterotoxin B	275

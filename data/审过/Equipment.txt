@@ -1,0 +1,124 @@
+Airborne Infection Isolation Room|AIIR
+BSC|BSCs
+Biopreparat facility
+Biosafety cabinets
+Blockade of the IL-6 system
+CRISPR reagent kits
+CT scanner|CT scanners
+Class III BSC
+ELISA
+ELISA reader
+Extracorporeal membrane oxygenation|ECMO
+Genome editing tools
+HEPA-filtered
+Holter monitors
+IV needle
+Jackson, Steiner and McPhail traps|Jackson trap|McPhail traps
+MIAME
+MRI scanner|MRI scanners
+Minimum Information About a Microarray Experiment
+Modern CT machines
+N-localizer
+N95 mask|N95 masks|N95 respirators
+Oura Ring
+PAPR|PAPRs
+PCDs
+PCR thermocycler
+PPE gown
+Pacific Biosciences Sequel Sequencer
+Photon counting detectors
+Power Plate
+Ricin Probe
+SQUIDs
+SSP
+Self-Contained Breathing Apparatuses
+Steam Sterilization Plant
+Surgical masks|surgical mask
+Typical CT scanners
+Tyvex™ armor
+Ventilators capable of pressure control modes and high PEEP
+X-ray generator
+X-ray tube|X-ray tubes
+X-ray tube assembly
+nasal swab|nasal swabs|nasopharyngeal swab
+biohazard bags
+biohazard container
+biological (aseptic) hoods
+biological safety cabinet|biosafety cabinet|biosafety cabinets
+biosafety cabinet level-3
+breakaway hazmat suit
+breathing protection device
+breathing tube
+chest CT
+chest radiographs
+computed tomography
+coronavirus testing kits
+culture dishes
+diagnostic PCR
+disposable gloves
+disposable hat
+disposable medical protective mask
+disposable protective clothing
+disposable waterproof clothing
+electron microscope|electron microscopy
+face shields
+fire extinguisher
+gas‐tight aerosol generation chamber
+gauze masks
+hand sanitizer
+helical CT
+high-speed CT scanner
+highly protective form of personal respiration
+incinerator|incinerators
+inner-layer gloves
+insect facility
+isolation equipment
+lab shoes
+lab stockings
+long waterproof boots
+long-sleeved medical outer gloves
+long-sleeved medical rubber gloves and overshoes
+lung bypass machine
+mechanical ventilation
+medical CT scanners
+medical gloves
+medical outer gloves and lab shoes
+medical protective clothing
+medical protective mask
+medical rubber gloves and overshoes
+modern dual-energy CT scanners
+modern scanner
+negative-air-pressure cages
+older ventilators
+long-sleeved inner gown
+optical and electron microscopy
+outer-layer gloves
+overshoes
+paper masks
+photon counting CT
+plastic tubes
+positive air pressure respirators
+positive-pressure breathing protection devic
+protective clothing
+protective eye wear
+protective outfits
+protective suit|protective suits
+radioactive waste containers
+real time PCR|real-time PCR
+real-time PCR facility
+respirator|respirators
+rubber gloves
+safety centrifuge cups
+screw caped container and bottles
+screw‐top sealed tubes
+secondary containment
+self needle device
+serological pipettes
+small bore multi-slice CT scanners
+sterile container
+superconducting quantum interference devices
+two dimensional X-ray detector
+ultraviolet avalanche photodiodes
+waste container chemical materials
+wearable electrocardiographs
+wearable heart-rate monitors

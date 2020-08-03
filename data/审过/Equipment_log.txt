@@ -1,0 +1,12 @@
+match	Biosafety cabinets	3	0	000116L20200604
+delete	Self-Contained Breathing Apparatuses	33	0000123L20200611
+delete	biosafety cabinet	46	1000040L20200530
+delete	disposable gloves	57	0000070L20200530
+delete	medical gloves	83	0000131L20200611
+delete	medical protective clothing	85	0000069L20200530
+delete	medical protective mask	86	0000068L20200530
+delete	protective clothing	101	0000037L20200530
+delete	protective suits	104	1000115L20200604
+delete	real-time PCR	106	1000140L20200612
+delete	respirators	108	1000032L20200530
+delete	serological pipettes	115	0000108L20200604

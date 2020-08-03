@@ -1,0 +1,4 @@
+AIIR	1	Airborne Infection Isolation Room	1
+BSC	2	biological safety cabinet	47
+PAPR	24	positive air pressure respirators	100
+SSP	33	Steam Sterilization Plant	35

@@ -1,0 +1,287 @@
+MERS-CoV
+ebolaviruses
+"N" virus
+1918 H1N1 virus|1918 pandemic virus|1918 virus|1918 viruses
+1957 and 1968 pandemic viruses
+2009 H1N1 pandemic virus|2009 flu pandemic strain|2009 novel H1N1|A(H1N1)pdm09|Swine Flu A (H1N1) pdm09
+AHF
+Anthrax
+Anthrax 836
+Anthrax spores
+Arenaviridae
+Aspergillus fumigatus|Aspergillus fumigatus spores
+B. Pseudomallei
+B. anthracis|B. anthracis cells|B. anthracis spores
+B. cereus
+B. mallei
+B. pseudomallei
+B.anthracis
+BDBV
+BHF
+BVD
+Bacillus
+Bacillus anthracis strain H-4
+Bacillus cereus
+Bacillus globigii
+Bacillus subtilis
+Bacillus thuringiensis
+BatCov RaTG13
+Botox
+Botulinum
+Botulinum Neurotoxin|Botulinum neurotoxin
+Botulinum Toxin|Botulinum toxin
+Botulism
+Brucella
+Brucella sp
+Brucella spp
+Brucella strains
+Brucella suis
+Bt
+Bundibugyo virus
+Burkholderia mallei
+B‐virus
+C. botulinum
+C. difficile
+CHV‐1
+CMV
+COVID‑19|Covid-19|the COVID‑19 virus|the virus responsible for COVID‑19
+CRE
+Campylobacter
+Candida albicans
+Carbapenem-resistant Enterobacteriaceae
+Chemical Corps
+Chikungunya
+Clostridium botulinum
+Clostridium perfringens
+Clostridium perfringens toxins
+CoV strain
+Coronavirus
+Cryptococcus neoformans
+Dengue
+E coli ST1193
+E. coli|E. coli bacteria
+E. coli (ST648)
+E. coli 24213-18
+E. coli ST167
+EBOV
+EBOV-Z
+EBV
+EEE-mosquitoes
+ERS-CoV
+ETEC
+Eastern and Western equine encephalitis viruses
+Ebola|Ebola Virus
+Ebola Mayinga
+Ebola virions
+Ebola virus Zaire
+Enterotoxigenic Escherichia coli
+Enterotoxin type B
+Epstein-Barr virus
+Equine Morbilli Virus
+Escherichia coli
+Escherichia coli lysogenic for λc1857
+Eurasian avian viruses
+Eurasian pig flu virus
+Eurasian wild waterfowl strain
+F. Tularensis|F. tularensis
+FMD
+Filoviridae
+Fluconazole-resistant Candida
+Francisella tularensis bacterium
+Fusarium nivale
+H.sapiens-wt/GIN/2014/Makona-Kissidougou-C15
+H1N1|H1N1 flu virus|H1N1 virus|H1N1 viruses|H1N1 strain
+H1N1 influenza A virus
+H1N1 influenza virus
+H1N1 swine flu strain
+H2N2
+H3N2|H3N2 (flu)|H3N2 influenza viruses|H3N2 virus
+H5N1|H5N1 strain|h5n1|H5N1 strain of bird flu
+H7N7
+H7N9|H7N9 influenza virus
+H9n2
+HBV|hepatitis B virus
+HIV|HIV virus|HIV/AIDS|human immunodeficiency virus
+HIV-1
+HKU1
+HPAI H5N1 virus
+HSV
+HSV‐1
+Haemophilus influenzae
+Hanta virus|Hantavirus
+Herpes Simplex Virus type 1
+IAV|IAVs|Influenza A viruses|influenza A viruses
+Influenza virus|Influenza virus strains
+Japanese encephalitis virus
+Kyasanur Forest Virus
+Lassa|Lassa virus
+Lentiviral vectors
+Leptospira bacteria
+Listeria monocytogenes
+London1_novel CoV 2012
+M. capricolum capripneumoniae subspecies
+M. mycoides mycoides
+M. mycoides subspecies capri
+M. mycoides subspecies mycoides
+M. tuberculosis
+MERS coronavirus|MERS virus|MERS-COV|MERS-CoV|MERS-Cov|Middle East Respiratory Syndrome Coronavirus|Middle Eastern Respiratory Syndrome-Corona Virus
+MRAB
+MRSA|methicillin resistant Staphylococcus aureus|methicillin-resistant Staphylococcus aureus
+Marburg
+Meliodosis|Melioidosis
+Mexican virus
+MulV
+Mycobacterium bovis
+Mycoplasma capricolum subspecies capricolum
+NDM-5–positive E. coli
+NDM-5–positive E. coli (ST43)
+NDM-5–producing E. coli
+Naegleria gruberi
+Nairovirus
+North American swine flu strains
+Omsk Hemorrhagic fever virus
+Pandemic H1N1/09 virus
+Pathogenic Fusarium oxysporum strains
+Petrobactin
+Plague-fleas
+Pleospora papaveracea
+Pseudomonas aeruginosa
+Puccinia graminis
+RESTV
+RSV|respiratory syncytial virus
+Reston virus
+Rift Valley Virus
+Ross River Virus
+S. pyogenes
+SARS coronavirus|SARS virus|SARS‑CoV
+SARS-CoV-1
+SEB|Staphylococcal enterotoxin B|Staphylococcus enterotoxin type B|staphylococcal enterotoxin B
+SUDV
+Salmonella|Salmonella bacteria
+Salmonella e
+Salmonella enterica Typhimurium
+Salmonella typhimurium bacteria
+Serratia marcescens
+Severe acute respiratory syndrome coronavirus 2|SARS-CoV-2|SARS‑CoV‑2
+Shigella
+Smallpox
+St. Louis encephalitis virus
+Staphylococcus aureus
+Sudan virus
+TAFV
+Tai Forest virus|Taï Forest virus
+The genetically engineered 'superbug'
+The polio virus
+Trichothecenes Mycotoxin
+Ugandan virus
+VRE
+VRSA
+VX
+Variola major
+Variola minor
+Venezuelan Equine Encephalitis Virus|Venezuelan equine encephalitis virus
+West Nile virus
+Wheat Stem Rust
+Wuhan coronavirus
+Y. pestis|Y. pestis strain|Y.pestis|Yersinia pestis|Yersinia pestis bacterium
+Yellow fever virus
+ZEBOV|Zaire Ebola virus|Zaire ebolaviruses|Zaire strain of the Ebola virus
+Zika|Zika viruses
+Zika virus mutations
+adeno-associated viruses
+aflatoxin
+alphaviruses
+anthrax|anthrax bacteria
+anthrax spores
+antibiotic resistant Acinetobacter
+arenaviruses
+artificial polio virus
+avian flu|avian influenza virus|avian viruses
+bacillus
+bacterium Clostridium botulinum
+botulin toxin
+botulinum|botulinum toxin|botulinum toxins|botulism toxins
+brucella|brucellosis
+bubonic plague|bubonic plague bacteria
+camel pox|camelpox|camelpox virus
+carbapenem-resistant E. coli|carbapenem-resistant Enterobacteriaceae|carbapenem-resistant Escherichia coli|carbapenem-resistant Escherichia coli sequence
+causative agent of rice blast
+cercopithecine herpesvirus
+cholera strain
+conotoxin
+coronavirus|coronaviruses
+cytomegalovirus
+dengue|dengue viruses
+deoxynivalenol
+ebolavirus|ebolaviruses
+enterovirus 17 human conjunctivitis
+ergot
+ergotism
+filoviruses
+fungi candida
+fusarenon- X
+gammaretroviral
+genetic engineering-smallpox
+genus Betacoronavirus
+hCMV
+hantavirus
+herpes B virus
+human cytomegalovirus
+human flu viruses
+human immunodeficiency virus type 1
+human papillomavirus
+immunodeficiency virus
+infectious canine hepatitis virus
+influenza virus H5N1
+leptospira
+monoace tylnivalenol
+multidrug-resistant A. baumannii
+multidrug-resistant E coli clonal group
+mycobacteria
+mycotoxin|mycotoxins
+nCoV
+neurotoxin Botulinum
+nivalenol
+novel H1N1
+pangolin coronavirus
+paramyxoviruses
+plague bacteria
+plague viruses
+plague-carrier fleas
+pneumoviruses
+polio virus|poliovirus
+rabies virus
+recombinant strain of Borrelia burgdorferi
+ricin
+ricin-laden
+rotavirus
+rye stem rust spores
+salmonellosis
+sarin
+seasonal strain of H1N1
+severe acute respiratory syndrome coronavirus
+severe acute respiratory syndrome coronavirus 2
+smallpox strain|smallpox strains|smallpox virus|smallpox viruses
+smallpox-variola
+species Zaire ebolavirus
+staphylococcal enterotoxin
+strain of anthrax
+streptomycin sulfate
+swine flu virus
+synthetic M. mycoides organism
+syphilis
+tetrodotoxin
+tick-borne virus
+trichothecenes
+tuberculosis mycobacteria
+tularemia bacteria
+vaccinia virus|vaccinia viruses
+vancomycin-resistant Enterococcus
+vancomycin-resistant S. aureus
+varicella zoster virus
+variola virus
+wheat stem rust spores
+wild bird strains
+wild poliovirus
+wild-bird strains
+yellow fever virus

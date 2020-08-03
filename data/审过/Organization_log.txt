@@ -1,0 +1,85 @@
+WHO	4	world Health Organization	4
+WHO	4	world health organization	4
+WHO	4	White House offices	1299
+WHO	4	World Health Organization	1311
+WHO	4	the World Health Organisation	1387
+WHO	4	the World Health Organization	1388
+AAU	11	Association of American Universities	83
+ACHD	14	Allegheny County Health Department	47
+AFRIMS	16	Armed Forces Research Institute of Medical Sciences	75
+APHL	18	Association of Public Health Laboratories	85
+APHL	18	the Association of Public Health Laboratories	1357
+ASCP	19	American Society of Clinical Pathologist	65
+ASM	21	American Society of Microbiology	66
+ASPR	22	Assistant Secretary of Preparedness and Response	80
+
+BBIC	95	Biosafety and Biosecurity International Consortium	126
+DED	303	Department of Enteric Diseases	342
+DGHP	305	Division of Global Health Protection	370
+DGHT	306	Division of Global HIV and TB	369
+DHA	307	Defense Health Agency	334
+DHHS	308	Departments of Health and Human Services	359
+DHSES	313	Division of Homeland Security, and Emergency Services	371
+DPDM	318	Division of Parasitic Diseases and Malaria	375
+DSAT	324	Division of Select Agents and Toxins	377
+DSAT	324	division of select agents and toxins	1335
+DTRA	326	Defence Threat Reduction Agency	333
+DTRA	326	De­fense Threat Re­duc­tion Agency	365
+EHSO	390	Environmental Health and Safety Office	423
+EIS	391	Epidemic Intelligence Service	425
+EMA	394	European Medicines Agency	438
+EMC	395	Erasmus Medical Center	429
+EMRO	397	Eastern Mediterranean Regional office	406
+EPA	398	Environmental Protection Authority	424
+EPA	398	the Environmental Protection Agency	1360
+EPO	399	the European Patent Office	1362
+EU	402	European Union	440
+FAO	446	Food and Agriculture Organization	462
+FDA	449	federal Department of Agriculture	1338
+GAP	471	Global Action Plan	487
+GHO	472	Global Health Observatory	492
+GID	473	the Global Immunization Division	1363
+HHS	508	Health and Human Services	528
+HLI	511	Human Longevity, Inc.	549
+HSC	513	Home Safety Council	533
+HSC	513	Homeland Security and Cybersecurity	535
+HSE	514	Health and Safety Executive	529
+IACUC	551	Institutional Animal Care and Use Committee	596
+IATA	554	International Air Transport Association	601
+IBWG	556	International Biosafety Working Group	603
+ICRC	560	International Committee of the Red Cross	606
+ICTV	561	International Committee on Taxonomy of Viruses	607
+IDSA	563	Infectious Diseases Society of America	587
+IFRC	564	International Federation of Red Cross	613
+IMF	566	International Monetary Fund	615
+INS	567	Immigration and Naturalization Service	577
+IRC	570	International Rescue Committee	618
+ISIS	572	Islamic State of Iraq and Syria	634
+IWM	574	Imperial War Museum	582
+JAMA	639	Journal of the American Medical Association	661
+JISC	643	Joint Information Systems Committee	660
+LSTF	682	Life Sciences Test Facility	700
+NCDC	772	National Communicable Disease Center	804
+NHC	777	the National Health Commission	1365
+NHS	778	National Health Service	810
+NML	789	National Microbiology Laboratory	817
+NSRI	792	National Strategic Research Institute	821
+OHA	851	Office of Health Affairs	861
+OHS	852	Office of Homeland Security	863
+OPEC	854	Organization of the Petroleum Exporting Countries	877
+OSI	855	Office of Special Investigations	867
+PHS	885	Public Health Service	912
+PHS	885	the Public Health Service	1367
+SGI	954	Synthetic Genomics Inc	1031
+SNL	959	Sandia National Laboratories	968
+TUM	1035	Technical University of Munich	1043
+UARC	1132	University Affiliated Research Centers	1227
+UN	1136	United Nations	1136
+UN	1136	University of Nebraska	1239
+UN	1136	the United Nations	1382
+UNDP	1143	United Nations Development Programme	1199
+USPTO	1184	United States Patent and Trademark Office	1221
+UVRI	1187	Uganda Virus Research Institute	1190
+WFP	1271	World Food Programme	1309
+WHA	1272	World Health Assembly	1310
+WTI	1284	West Texas Intermediate	1296
